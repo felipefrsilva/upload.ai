@@ -16,7 +16,7 @@ export function App() {
   return (
     <div className="min-h-screen flex flex-col">
       <div className="px-6 py-3 flex items-center justify-between border-b">
-        <h1 className="text-xl font-bold violet-600">
+        <h1 className="text-xl font-bold">
           <Youtube className="w-6 h-6 ml-11" />
           {"{ upload.ai }"}
         </h1>
